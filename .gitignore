@@ -1,0 +1,21 @@
+# Node.js dependencies
+/node_modules
+
+# Archivos de construcción
+/build
+/dist
+
+# dotenv environment variables file
+.env
+.env.test
+.env.local
+
+# Archivos de registro y salida
+/logs
+/*.log
+
+# Archivos temporales
+.tmp
+
+# package-lock.json
+package-lock.json
